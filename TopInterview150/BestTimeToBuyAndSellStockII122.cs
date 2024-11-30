@@ -38,10 +38,10 @@ Constraints:
 
 /**
 <remarks>
-
+Time 6:00
 </remarks>
 */
-public class Solution {
+public class StockBuySell {
     public int MaxProfit(int[] prices) {
       // We are looking for peaks and valleys
 	  // and want to buy at the valley and sell at the peak
